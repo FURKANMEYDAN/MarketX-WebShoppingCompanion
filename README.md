@@ -1,21 +1,30 @@
-# cocd14107a32082e1ee908234
+# MarketX:Web Shopping Companion
 
-Quick start:
+***MarketX*** bir alışveriş listesi oluşturma uygulamasıdır.  
+
+Scrimba VanillaJS kursunun son uygulaması olup PWA(Progressive Web Application) isimli teknolojiyi kullanır.
+![MarketMate](https://github.com/FURKANMEYDAN/MarketMate-WebShoppingCompanion/assets/103230828/75501cf4-9c73-489d-96ad-29cf66544ebb)
+
+## Yükleme
+
+- Öncelikle aşağıdaki linki kopyalıyoruz.
+
+```bash
 
 ```
-$ npm install
-$ npm start
-````
+- Daha sonra Android telefonlarda google chrome web tarayıcısını açıyoruz ve kopyaladığımız linki arama kısmına yapıştırıyoruz.  
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+- Sağ kısımda yer alan 3 nokta işaretine tıklıyoruz.  
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+- Çıkan sekmede "**ana ekrana ekle**" yazan sekmeye tıklıyoruz ve uygulamamız ana ekrana gelmiş oluyor.  
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+![anaekran](https://github.com/FURKANMEYDAN/MarketMate-WebShoppingCompanion/assets/103230828/0890813f-f923-4922-9273-e024760f27e4)
 
-Happy Coding!
+
+
+## Kullanımı
+Uygulamanın kullanımı oldukça basit.
+- Marketten almak istediğiniz ürünü giriyorsunuz böylece ürün listeye eklenmiş oluyor.
+- Listeden silmek istediğiniz bir ürünün üstüne tıklamanız yeterli olacaktır.
+
+**İyi Alışverişler
