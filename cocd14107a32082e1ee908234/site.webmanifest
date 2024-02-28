@@ -1,0 +1,11 @@
+{
+    "name": "Marketx",
+    "short_name": "MarketX",
+    "icons":
+        [
+            {"src":"/MarketX-192-192","sizes":"192x192","type":"image/png"},{"src":"/MarketX-512-512","sizes":"512x512","type":"image/png"}
+        ],
+    "theme_color": "#EEF0F4",
+    "background_color": "#EEF0F4",
+    "display": "standalone"
+}
