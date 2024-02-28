@@ -1,4 +1,5 @@
-# MarketX:Web Shopping Companion![MarketX-180](https://github.com/FURKANMEYDAN/MarketX-WebShoppingCompanion/assets/103230828/79815f38-72ec-4d2e-b455-cf64f894545b)
+# MarketX:Web Shopping Companion  
+![MarketX-180](https://github.com/FURKANMEYDAN/MarketX-WebShoppingCompanion/assets/103230828/79815f38-72ec-4d2e-b455-cf64f894545b)
 
  
 
